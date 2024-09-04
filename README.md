@@ -2,8 +2,12 @@
 
 ## Equipe
 
-Douglas Cabral Pereira de Araújo
-
+Dayanne Moraes
+Douglas Araújo
+Ewerton Monteiro
+Gabriel Farias
+Isabela Karla
+Luis Facunde
 
 ## Descrição do projeto
 
