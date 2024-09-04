@@ -2,12 +2,12 @@
 
 ## Equipe
 
-Dayanne Moraes
-Douglas Araújo
-Ewerton Monteiro
-Gabriel Farias
-Isabela Karla
-Luis Facunde
+<p>Dayanne Moraes</p>
+<p>Douglas Araújo</p>
+<p>Ewerton Monteiro</p>
+<p>Gabriel Farias</p>
+<p>Isabela Karla</p>
+<p>Luis Facunde</p>
 
 ## Descrição do projeto
 
