@@ -9,9 +9,15 @@
 <p>Isabela Karla</p>
 <p>Luis Facunde</p>
 
-## Descrição do projeto
+## Descrição
 
 VitalSync é uma plataforma web que conecta profissionais de saúde, como nutricionistas e educadores físicos, aos seus alunos/pacientes. A plataforma permite que os alunos tenham acesso aos seus treinos semanais e dietas personalizadas, além de poderem interagir com os profissionais e compartilhar atualizações de progresso.
+
+#### Backlog do Projeto
+
+<p>
+    <img src="./Captura de tela de 2024-09-04 18-51-50.png" />
+</p>
 
 ## Funcionalidades Principais
 
