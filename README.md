@@ -16,9 +16,9 @@ VitalSync é uma plataforma web que conecta profissionais de saúde, como nutric
 #### Backlog do Projeto
 
 <p>
-    <img src="./Captura de tela de 2024-09-04 18-51-50.png" />
+    <img src="./assets/Captura de tela de 2024-09-04 18-51-50.png" />
 </p>
-
+a
 ## Funcionalidades Principais
 
 1. Perfis de usuário para profissionais e alunos/pacientes
@@ -98,6 +98,13 @@ VitalSync é uma plataforma web que conecta profissionais de saúde, como nutric
         <img src="./assets/sketch-login-paciente.png" />
 </details>
 
+## Protótipo
+
+<video controls width="250">
+    <source src="./assets/screencast-01.mp4" type="video/mp4" />
+
+<video controls width="250">
+    <source src="./assets/screen-02.mp4.mp4" type="video/mp4" />
 
 ## Instalação e Configuração
 
