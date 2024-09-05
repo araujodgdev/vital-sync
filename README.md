@@ -98,13 +98,7 @@ a
         <img src="./assets/sketch-login-paciente.png" />
 </details>
 
-## Protótipo
-
-<video controls width="250">
-    <source src="./assets/screencast-01.mp4" type="video/mp4" />
-
-<video controls width="250">
-    <source src="./assets/screen-02.mp4.mp4" type="video/mp4" />
+[## Protótipo 🔗](https://drive.google.com/drive/folders/1lxHRWnrA0qhMDt9Ik8lSUNE0bxNaLfon?usp=drive_link)
 
 ## Instalação e Configuração
 
