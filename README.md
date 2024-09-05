@@ -99,7 +99,11 @@ VitalSync é uma plataforma web que conecta profissionais de saúde, como nutric
         <img src="./assets/sketch-login-paciente.png" />
 </details>
 
-## [Protótipo 🔗](https://drive.google.com/drive/folders/1lxHRWnrA0qhMDt9Ik8lSUNE0bxNaLfon?usp=drive_link)
+## Protótipo (FIGMA)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FlxbFzZzfCyPrtuJ0hAUcS4%2FVitalSync---Lo-Fi%3Fnode-id%3D0-1%26t%3D6RdzeJ46txj5JweM-1" allowfullscreen></iframe>
+
+[ScreenCast](https://drive.google.com/drive/folders/1lxHRWnrA0qhMDt9Ik8lSUNE0bxNaLfon?usp=drive_link)
 
 
 ## Licença
