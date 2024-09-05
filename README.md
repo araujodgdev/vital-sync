@@ -7,6 +7,7 @@
 <p>Ewerton Monteiro</p>
 <p>Gabriel Farias</p>
 <p>Isabela Karla</p>
+<p>Lucas Alves</p>
 <p>Luis Facunde</p>
 
 ## Descrição
@@ -18,7 +19,7 @@ VitalSync é uma plataforma web que conecta profissionais de saúde, como nutric
 <p>
     <img src="./assets/Captura de tela de 2024-09-04 18-51-50.png" />
 </p>
-a
+
 ## Funcionalidades Principais
 
 1. Perfis de usuário para profissionais e alunos/pacientes
@@ -100,13 +101,6 @@ a
 
 ## [Protótipo 🔗](https://drive.google.com/drive/folders/1lxHRWnrA0qhMDt9Ik8lSUNE0bxNaLfon?usp=drive_link)
 
-## Instalação e Configuração
-
-[Instruções de instalação e configuração do projeto serão adicionadas aqui]
-
-## Contribuição
-
-[Diretrizes para contribuição no projeto serão adicionadas aqui]
 
 ## Licença
 
